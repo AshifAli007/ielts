@@ -1,0 +1,7 @@
+The bar chart illustrates the proportion of Men, Women and Children who consume five portions of fruit and vegitable each day in 8 years from 2001 to 2008 in the UK.
+
+Overall, it can be seen that the proportion of Women consuming fruits and vegetables is way more than men and children consistently over the time of period. Furthermore, significant increase in the proportionf of people eating food items can be seen over the time of period.
+
+The proportion of women eating fruit and vegetables was slightly above 20% in 2001, which reached it's peak in 2006 where the proportion was more than 30% after this point it decreases to around 28% in at the end in 2008.
+
+In terms of Men and children, the proportion of men was steady over the initial 3 years (from 2001 to 2003) after that it started to increase upto 27% in 2006 and 2007 after this point there was a slight decrease in proportion to 24% in 2008. similar trend can be seen in case of children which reaces about 25% in 2007 and decreased to 23% in 2008.
