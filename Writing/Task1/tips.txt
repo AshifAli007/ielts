@@ -2,11 +2,35 @@ synonyms :-
 
 shows-illustrates-depicts-details
 each-per
-overall-Generally speaking-looking from an overall perspective - 
-it can be seen-it is readily apparent that-
+
+overview starting:-
+
+overall
+Generally speaking
+looking from an overall perspective
+it can be seen
+it is readily apparent that
+
+
+
+para start :-
+
+In 1966,
+In contrast
 
 
 -> categorize on the basis of decline and increase rates or fluctuations
 
 -> the reported figures are...
 -> Similarly, ...
+
+
+
+To give numbers :-
+
+falling from this to this
+increaseing from here to here
+which more than doubled, quadrupled
+give a number in year than -> This figure increased steadily and erached here, then -> four times higher than ...
+
+
