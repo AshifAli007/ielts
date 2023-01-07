@@ -2,6 +2,7 @@ synonyms :-
 
 shows-illustrates-depicts-details
 each-per
+peak-top-
 
 overview starting:-
 
@@ -17,6 +18,8 @@ para start :-
 
 In 1966,
 In contrast
+In comparison
+With regards to the amount of x used
 
 
 -> categorize on the basis of decline and increase rates or fluctuations

@@ -1,0 +1,16 @@
+The line chart illustrated the number of requests  for informatino at a tourist office in The UK over 6 months from jan to jun in three different catogories(in-person, by lettor, by telephone).
+
+Overall, it is readily apparent that the number of in-person and by-telephone requests have increased over the years whereas the requests are declined in case of letters. In the starting months by-telephone requests were most popular which then got replaced by in-person requests and in the months in-person requests become most popular while letter and email request were least popular.
+
+In jan, the number of in-person requests was the lowest at around 400 requests, this figure gradually increased to it's 4 times over the months and become most popular way to get information with with more than 1800 requests in june. A similar overall trend can be found in case of telephone request, beginning with the most popular way with about 900 request in jan to exactly 800 in feb, this figure than increases to 1000 in Mar and remain contant for a months and shows another rise in request to a mzximum of exactly 1600 request in the month of June.
+
+In terms of by letter and email requests, the requests has shown a steady decline. starting from around 750 request in jan which starts falling to it's lowest value of approx 350 requests in may and it remain contant thereafter.
+
+
+--------------------------------------
+
+The line chart details the frequency of requests in person, by letter/email, and by telephone at a UK tourist office in the first 6 months of a given year. Looking from an overall perspective, it is readily apparent that in-person requests increased from the least to most common over the period, overtaking telephone, which also rose. Information requests by email and letter declined and were by far the least frequent by the end of the time surveyed.
+
+In January, in-person information requests were the lowest of all 3 categories at approximately 420. In contrast, written requests and telephone calls stood at 770 and 900 in turn. By mid-March, in-person questions (1,000) had surpassed other queries, an upwards trend that persisted and culminated at 1,900 to finish the period.
+
+In comparison, telephone requests fluctuated between 800 and 1,000 until the beginning of April prior to growing sharply to end just behind in-person requests at 1,600. Letter and email requests fell marginally until March (to 700), before a steep drop, and a levelling off at 400 from May to June.

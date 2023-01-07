@@ -1,0 +1,11 @@
+The Line chart illustrates the consumption of Margarine, Lowfat & reduced spreads and Butter between the years 1981 to 2007.
+
+Overall, it is readily apparent that consumption of Margarine has shown a dramatic decline over the years. A similar fall can be seen in consuming Butter. unlike other spreads lowfat & reduced spreads start to be consumed from 1996 and rose rapidly.
+
+In 1981, the consumption of Butter was slightly above 140 grams, this figure increased to it's peak value of about 160 in 1986, from this point it started to decrease significantly to just around 50 grams in 2007. In case of Margarine it also shows an overall decline starting from around 90 grams to exactly 40 grams however unlike other spreads it fluctutes over the years and from 1991 to 1996 the consumption remain contant.
+
+Consumption of Lowfat & reduced spreads was 0 from 1981 to 1996 from this point it started to rose rapidly and reached it's highest value that is over 80 in 2001 and after that it decreased to near 70 in 2007.
+
+
+--------------
+The linine graph illustrates the amount of three kind sof spread () which were consumed over 26 years from 1981 to 2007. Units are measured in grams.
