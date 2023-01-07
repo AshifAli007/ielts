@@ -1,0 +1,18 @@
+The bar chart depicts the proportion of women in Australia giving birth to their first child under 6 Age categories in the years 1966, 1986 and 2006.
+
+Overall, it can be seen that proprtion of women aged over 40 is consistently the lowest over the period of time. Womens under the categories (19-24 and under 19) is gradually decreasing whereas proportion of womens under the categories(34-39 & 30-34) has consistently increased over the period of time.
+
+in terms of women under categories (under 19 & 19-24) the percentage starts from it's peak value of above 30% and above 60% in 1996 and ends just above 10% and below 30% in 2006 respectively, showing a significant decrease in percentage over the period of time.
+
+in contrast to the above, the percentage of womens under categorie (30-34 & 34-39) begins with it's least percentage of about 12% and below 10% in 1996 which increases to it's highest peak of about 45% and exactly 30% in 2006 respectively.
+
+The categories of Women aged 25-30 and over 40 shows fluctuations over the period of time with their peak values of exactly 50% in 1996 and around 5% in 2006 respectively.
+
+
+--------------------------------------------------------
+
+The bar chart details when women in Australia had their first child from 1966 to 2006. Looking from an overall perspective, it is readily apparent that women in the past tended to have their first child earlier in life, especially very young women. Having a child in one’s 30s became much more common, though after one’s 30s it remained relatively rare.
+
+In 1966, 33% of women had their first child under the age of 19. This figure dropped precipitously to reach 11% by 2006. The data for women 19-24 underwent a similar drop, falling from 62% to 50% and finally 28%.
+
+In contrast, 36% of women were 19-24 years old when they first gave birth in 1966 and this number then rose to 50% in 1986 before dropping back to just above the original figure to end the period. The largest rise occurred in the 30-34 age range which more than quadrupled (11% to 18% to 45%). This paralleled the growth for ages 34-39, nearly doubling every 20 years from 9% to 17% and lastly 30%. Finally, there was little change for women over 40 despite marginal growth from 3% to 5%. 

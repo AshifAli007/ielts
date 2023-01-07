@@ -1,0 +1,8 @@
+The given chart illustrates the proportion of men, women and children consuming five portions of fruits and vegetable in the UK between the years 2001 to 2008.
+
+Overall, it can be seen that the proportion of women is consistently the highest over the period of given time for consuming fuits and vegetables, whereas the proportion of childrens is the lowest among all three categories.
+
+In terms of women, the lowest proportion of women was in 2001 with slightly above 20% which gradually increases over the years and reaches it's peak in 2006 with above 30% which then slightly decreases to 30% in 2008.
+
+in terms of men and children, the proportion of both men and children remain constant for the first 3 years from (2001 - 2003) at above 15% and above 10% respectively. men and children both shows a dramatic increase in the proportion from 2004 to it's peak value in 2006.
+

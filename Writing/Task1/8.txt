@@ -1,0 +1,16 @@
+The given bar chart depicts the production of cofee in 4 different contries(Brazil, Colombia, Indonesia and Vietnam) in the time period from 1990 to 2010.
+
+Overall, it is readily apparent that the coffee production in brazil is consistently highest over the period of time.
+while Brazil, Indonesia and Vitnam shows a gradual increase over the period of time Colombia has a gradual decline in the production over the years. 
+
+in 1990, the production of coffee in Brazil was around 0.7 million tonnes which steeply increases to more than double (1.9 million tonnes) in 2010, a similar increase can be seen in Indonesia, increasing from exactly 0.2 in 1990 which doubled to 0.4 in 2010. Finally, Vietnam shows a highest increase than other contries, rosed from around 0.1 which triples over the period of time to around 0.3 in 2010.
+
+In contrast, the production of coffee in Columbia shows a dramatic decline, falling from 0.6 in 1990 to just around 0.3 in 2010.
+
+
+------------
+The bar chart details coffee production in four countries from 1990 to 2010. Looking from an overall perspective, it is readily apparent that production rose in all countries except for Colombia. Brazil produced by far the most coffee throughout the period with the other three countries finishing with comparable totals.
+
+In 1990, Brazil narrowly produced the most coffee at .9 million tonnes. This figure increased steadily and reached 1.9 million tons by 2010, more than four times higher than the next largest producer. In contrast, production in Colombia began the period at .6 million tonnes and fell consistently throughout the period to be even with Vietnam for the lowest total of just over .3 million tonnes by 2010.
+
+Vietnam increased from the smallest exporter at .1 million tonnes in 1990 and 1995 to equal Colombia 20 years later. The final nation, Indonesia, underwent a steady climb from .2 million tonnes to double this figure (.4 million) to end the time surveyed.
