@@ -1,0 +1,5 @@
+The two pie charts depicts the proportion of worlds forest and timber in 5 continents.
+
+Overall, it is readily apparent that most of the regions have a ratio of forest vs timber greter than 1 except Africa where the ratio is less than 1. while North America accounted for the highest timber region Africa was the lowest.
+
+In terms of 

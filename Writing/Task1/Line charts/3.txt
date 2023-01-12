@@ -1,0 +1,7 @@
+The line chart depicts the usage of 6 types of fuel in the U.S, the collected data is for 50 years including history, present and future projections from years 1980 to 2030. All units are measured in Quadrillion.
+
+Overall, it is readily apparent that usage of petrol and oil is the highest than other fuels over the period of time whereas the usage of Nuclear, solar and hydropower has remain consistent and lowest in usage as compared to other fuels. Coal and natural gas has a significant consumption which also increases in the final years.
+
+In terms of petrol and oil, the usage has increased dramatically in the history and also projected to increase more by 2030, starting from 35 units in 1980 to almost 48 units in 2030. In the initial years the usage has shown some fluctuations. a similar trend can be seen in case of coal and Natural Gas which begins at near 16 & 20 units in 1980 to a projected consumption of around 30 & 25 units by 2030 respectively.
+
+In comparison, Nuclear, solar and Hydropower doesn't seem to fluctuate over the projected years, all these three fuels have a consumption of less than 5 units in the history which is projected to increase a little bit to less than 10 units by 2030.

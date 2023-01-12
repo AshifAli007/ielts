@@ -3,6 +3,11 @@ synonyms :-
 shows-illustrates-depicts-details
 each-per
 peak-top-
+mostPopular-dominant-highest
+stood-starts-begin
+slightDip-
+erratic-fluctuating
+similarly-likewise
 
 overview starting:-
 
@@ -11,6 +16,7 @@ Generally speaking
 looking from an overall perspective
 it can be seen
 it is readily apparent that
+Looking from an overall perspective
 
 
 
@@ -26,6 +32,7 @@ With regards to the amount of x used
 
 -> the reported figures are...
 -> Similarly, ...
+-> compare the graphs 1% above this or other
 
 
 

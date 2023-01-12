@@ -1,0 +1,14 @@
+The pie charts depictst the proportion of books sold between 1972 and 2012 under 5 different categories.
+
+Generally speaking, it is readily apparent that Adults and children fictions became more popular throughout the period of time. Travel, biography and other fictioon books shows a considerable fall in the popularity over the years.
+
+In the year 1972, the proportion of Children's fiction was 20% which shows a marginal increase of 2% in 1992 and finally it's proportion accounted for a quarter of all the books sold. Adult fiction starts with same percentage as of children in year 1972 which then drastically increased to over doubled in the final year 2012 and become the most popular books to be sold.
+
+with regard to Travel fiction books, the proportion shows fluctuations over the years, starting from 15% in 1972 and increasing slighly by 3% in 1992 and finally falls to only 10% in the year 2012. Biography books whereas consistently starts falling from 20% to slightly less than 10% in the final year. Likewise other fiction books accounted  for one fifth of all books sold in 1972 which drops to 12% in 2012.
+
+-------------------
+The pie charts detail sales by a bookseller between 1972 and 2012 according to genre. Looking from an overall perspective, it is readily apparent that adult fiction became by far the most popular type at the expense of the genres which declined in popularity (others, biography, and travel). Interest in children’s fiction also increased.
+
+In 1972, this particular bookseller sold relatively equal proportions of each type with others leading at 25%, followed by adult fiction, children’s fiction, and biography all at 20%, and travel lowest at 15%. By 1992, adult fiction had risen by 5%, while others and biography declined by the same number. Travel and children’s fiction grew by 3% and 2%, respectively.
+
+In the final year surveyed, adult fiction surged to 45% and children’s fiction ticked up slightly to 25%. The rise of adult fiction was compensated for by dramatic drops for the remaining genres with others finishing at 12%, travel at 10%, and biography 8%.
