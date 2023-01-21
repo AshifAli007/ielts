@@ -1,6 +1,6 @@
 synonyms :-
 
-shows-illustrates-depicts-details
+shows-illustrates-depicts-details-displays
 each-per
 peak-top-
 mostPopular-dominant-highest
@@ -8,6 +8,8 @@ stood-starts-begin
 slightDip-
 erratic-fluctuating
 similarly-likewise
+spendings-expenditure-outlay
+established-constructed
 
 overview starting:-
 
