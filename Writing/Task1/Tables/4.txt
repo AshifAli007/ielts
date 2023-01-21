@@ -1,0 +1,15 @@
+The given table illustrates the data for 4 categories(Number of Buisenesses, profit, sales Revenue, Growth) for departmental and online stores in Australia in the year 2011.
+
+Overall, It is readily apparent that Online stores were more popular than Department stores. A drastic difference can be seen in the number of buiseness, count of online stores are more than 5 times than departmental stores. both the stores shows marginal difference in growth, profit and sales revenue.
+
+In 2011, there was a total of 368 online businesses compared to department stores which has only 67 buiseness. The difference in sales Revenue is also high with 12,700 in case of deparment stores and 13,400 for online.
+
+In terms of Growth, onlines stores has a growth of .6% which is marginally higher than departments stores by only 0.2% which stands at 0.4%. A notable profit of 863 AUD can be seen in online stores whereas the reported figures of profit for department stores is 807 AUD.
+
+====================
+
+The table displays figures for purchase-related data comparing Australian department stores and online stores in 2011. Looking from an overall perspective, it is readily apparent that online stores were considerably more popular in terms of the number of businesses in operation though profits and revenue were relatively closer together, with online holding a small edge for each. The online stores also experienced meaningfully greater growth.
+
+The number of businesses was overwhelmingly in favor of online stores according to the data at 368 online to just 67 physical locations. However, profit figures in Australian dollars (AUD) presented a more narrow advantage for online retail at $863 and $807 for department stores.
+
+Concerning revenue, online purchases also displayed marginally higher final numbers. Online purchase revenue accounted for $13,400 compared to $12,700 for department locations. Finally, the growth percentage was considerably higher for online (.6%) relative to physical department stores (.4%).
