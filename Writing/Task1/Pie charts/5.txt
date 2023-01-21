@@ -1,0 +1,14 @@
+The pie charts below illustrates the percentage of energy production from 6 different resources in a country in year 1985 and 2003.
+
+Overall, it is readily apparent that, production of coal energy from oil accounted for a large percentage in both the years. production of Coal energy shows hihest increae over the years like wise Natural gas and Nuclear energy production has an overall increase over the years. In contrast to this, production of Oil and other renewalble energy shows a fall in percentage throughout the period of time.
+
+In 1985, the production of oil energy shows a drastic change, falling from slightly more than a half to around 40% in 2003. Likewise, Nuclear energy production started from 22% in 1985 which declined to slightly less than one 10th of the enrgy production in 2003. production from other renewable enrgy also decreses by 3%, from 4% in 1985 to 1% in 2003.
+
+In terms of Natural Gas and Nuclear energy, the proportion of production of enrgy comprised of a quarter in 1985 collectively, both the production shows considerable increase over the years to about a half of overall production collectively in 2003.
+
+=========
+The pie charts display the sources of energy production in 1985 and 2003. Looking from an overall perspective, it is clear that in 1985 the majority of energy came from primarily oil followed by nuclear power, natural gas, and coal with cleaner energy sources rarer. By 2003, renewables became slightly more common or remained level, the use of oil decreased but was still the most used, while both coal and natural gas underwent the largest increases.
+
+In 1985, oil represented 52% of all energy sourced, though this figure had declined to 39% by 2003. Nuclear power, which was the second most pervasive energy source in 1985 at 22%, had the steepest fall to just 8% in 2003. In contrast, natural gas rose from 13% to 23% and coal nearly tripled to 22%.
+
+In terms of the cleaner energy sources, hydro power represented 4% of total usage in both years while other renewables quadrupled from 1% in 1985 to 4% in 2003.

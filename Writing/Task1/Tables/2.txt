@@ -1,0 +1,17 @@
+The given table depicts the comparison of people age, their income and population below poverty line in three states california, Utal, and Florida in the USA.
+
+Overall, It can be seen that Utal has the highest proportion of young individual that california and finally Florida. Average income of people in California and Florida is genrally higher. Florida has most number of aged people while Utal has least.
+
+In california, 16% of residents are below the official poverty line, with 17% are young individual and 13% are aged above 60. These figures are broadly similar for Florida state that has 12% of population under poverty line including 16% people under 18 and a notable 23% over 60. In terms of average income, Florida was recorde at 22,000$ compared to California which is slighly higher at 23,000$.
+
+The reported figures for Utah is slighly different than othe states, Average income of people there is only 17,000$ with 9% of population under poverty line. Additionally people in Utah has a notable 28% of elderly people and only 8% of people of old age.
+
+
+
+==================================================
+
+The table details age demographics and their relation to poverty in three states in the United States of America. Looking from an overall perspective, it is readily apparent that there are more young individuals in Utah, while those over 60 in poverty are more common in California and especially Florida. Average incomes are generally highest in California and Florida and the largest proportion of total residents in poverty is highest in California, followed by Florida, and lastly Utah.
+
+In California, 16% of all residents are under the official poverty line, with 17% of all residents under 18 years old and 13% over 60. These figures are broadly similar to Florida where 12% of the population is in poverty (16% of total residents under the age of 18 and a notable 23% over 60). In terms of average income, California was recorded at $23,000 and Florida slightly lower at $22,000.
+
+The figures in Utah are markedly different as only 9% of residents are considered poor. Of the total population age demographics, 28% are under the age of 18 but just 8% are elderly individuals. Additionally, average earnings are lower than the other two states at just $17,000.

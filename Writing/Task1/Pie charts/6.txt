@@ -1,0 +1,12 @@
+The pie charts below ilustrates the proportion of consumption of different types of nutrients including sodium, saturated fats and added sugars in typical meals in the USA.
+
+Overall, it can be seen that sodium and saturated fats are mostly consumed during dinner while added sugar consumption is maximum in snacks. Also, it is readily apparent that breakfast comprised the minimum proportion of all the three nutrients.
+
+In terms of Sodium the proprtion of consumption stands for 43% in dinner and 14% is consumed during breakfast and snacks. In lunch the proportion is slightly less than a third. Likewise saturated fat is consumed heavily during dinner with slighly less than 40%, in lunch the proportion stands for only 26% which is 3% more than sodium consumtion. during snacks and breakfast the proportino is around 37% collectively.
+
+finally, Added sugar has the maximum consumption of 42% in snacks, after that it's mostly consumed in dinner with a proportion of 23%. The consumption of Added sugar has a combined proportion of exactly 35% during breakfast and lunch.
+
+===================
+The graph shows how much sodium, saturated fat and added sugars were consumed in the average meal in the United States. Looking from an overall perspective, it is readily apparent that the majority of sodium and fat were consumed at dinner, while most sugar was eaten in snacks. Lunch also tended to be salty and have a lot of fat while breakfast had the lowest percentages for all three nutrients.
+Dinner and lunch had roughly similar, large proportions for both sodium (43% for dinner and 29% for lunch) and saturated fat (37% for dinner and 26% for lunch). The amount of sugar in an average meal for dinner and lunch was much lower at 23% and 19%, respectively.
+Turning to breakfast and snacks, which also had comparable percentages, they were both made up of 14% sodium. For saturated fats, snacks contained 21% and breakfast was slightly lower at 16%. In terms of sugar, there was the greatest disparity with 42% of snacks being sugary and just 16% of breakfasts being made up of sugar.
