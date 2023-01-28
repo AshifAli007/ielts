@@ -1,0 +1,8 @@
+The given table illustrates different informations about the people visiting Uk in 5 years from 2003 to 2008.
+
+From an overall perspective, it is readily apparent that Number of vistors has increased steadily over the years  excepts in final year 2008. with increase in visitors, a similar growth can be seen in their spendings over the years. Averge spendings of the people shows a fluctions with it's peak value in final year and least in 2004. Average nights per visits also has a similar fluctuation over the years.
+
+In year 2004, the number of visitors has increased from 24.715 in 2003 to 27.755 millions. this figures continue to increase to it's peak value of 32.778 in 2007 after which it falls to 31.88 in 2008. Likewise, the spendings of people also increased steadily starting from 11.855 billion pounds to a maximum of 16.323 in 2008.
+
+with regard to Average spend each visit, the amount has decreased in the starting year from 475 pounds in 2003 to 466 in 2004, the figure then steadily increases 471, 486, 487, to finally 511 pounds in final year. on the other hand, Average nights per visits remail constant for 2 years until it increases to 8.3 in 2005 after this point it increase to 8.4 and then shows a drastic decline to 7.7 nights each year in year 2007 and 2008.
+
