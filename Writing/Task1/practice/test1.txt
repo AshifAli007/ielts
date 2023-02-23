@@ -1,0 +1,7 @@
+The line chart illustrates the proportion of electrical appliances and hours of housework per week from year 1920 to 2019.
+
+Overall, it is readily apparent that the proportion of each households appliance have increased over the years, on top of that as the poportion is increasing every year a gradual decline in housework hours can be seen.
+
+In 1920, the percentage of refrigerator was almost negligible from this point a drastic increase can be seen in the percentage with around 50% in 1940 to exactly 90% in 1960 to finally it's peak point of 100% in 1980, increasing by almost 100% in a period of 60 years. in addition, the percentage was maintained to 100% for all the years.
+
+With regards to vaccum cleaner, the percentage starts at a fairly good percentage of 40% in 1920 which fluctutes a bit through increasing in 1960 and then it went down to around 55% in 1980, after this point a graudal and slow increase can be seen with it's peak in the final year 2019(around 75%).

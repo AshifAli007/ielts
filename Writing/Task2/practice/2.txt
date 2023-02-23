@@ -1,0 +1,9 @@
+A lot of people wishes for a long life and that they live lonnger to fulfill their purpose but not all have the right path for a long life. There are a few factors which we can consider for a long life. This essay will discuss and give evidence of such factors that contribute in long life of people.
+
+Even though people find it difficult to do but doing exercises is one of the key factors for a good health. The reason is that human body works on the bio mechanics which require the movement of our bones and muscles to work properly. In addition, people often do yoga, running and lift heavy weight during exercise which accounts for better health and your ability to perform different activities. For example, a study at university of california states that people who do exercises are at low risk of obesity. Because their are many ways to become unhealthy and sick, exercises can beniefit in a person long life.
+
+
+
+Hi,
+
+Due to uncompleted work of themes and traffic profile some changes got merged to amta branch, as a result creator module have some in-development code. I see you have merged the amta into dev and it's been deployed to production.

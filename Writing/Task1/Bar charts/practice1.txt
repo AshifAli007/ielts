@@ -1,0 +1,7 @@
+The bar chart illustrated the proportion of young people pursuing Higher studies in 4 countries in years 2000, 2005 and 2010.
+
+Overall, it is readily apparent that there is a gradual and constant growth in the proportion of people studying in country d and A over the years, whereas for country B and C the percentage is more or less similar.
+
+In terms of Country A, the proportion of people studying in the year 2000 was slighly less than 40% which incresed to almost near 50% in 2005 and finally in 2010 a similar growth can be seen upto 58%. Likewise, the reported figures for growth in proportion for country D are similar starting at exactly 60% un 2000 with a marginal increase of 3% in 2005 and in 2010 it reached to exactly 80% which is the highest point of the chart.
+
+With regard to coutry B, it can be seen that it was the only country where the proportion declined from exactly 40% in 2000 to near 37% in 2005 dropping about 3% in total which again reached to it's original percentage(40 percent) in 2010.

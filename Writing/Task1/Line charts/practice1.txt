@@ -1,0 +1,11 @@
+The line chart illustrates the average attendance at a movie theatre for four different age groups from year 2000 to 2011.
+
+Overall, it is readily apparent that 15-24 age group is dominant over other age groups for the proportion over the years by maintaning the highest proportion, after this age group 7-15 is the age range who watch a lot of cinema and after that the people aged 25-30 and above 30 shows a marginally smaller proportion than other age groups. In general there is increase in the proportion for each age group over the year.
+
+in year 2000, the age group of 15-24 has a proportion of around 15% which gradually inclined to near 40% in 2006 after this point a fluctuation can be seen till 2008 that remail still for a small period of time until which reaches it peak between the years 2010 and 2011 increasing about a quarter(25%) from 2008(35%).
+
+Likewise, Age group 7-14 and 25-35 increses over the period of time and the point of intrest in the chart was betweek 2004 and 2006 where for the first time the proportion of 7-14 age group got below later age group.
+and finally there proportion meets at exatly 30% in 2011.
+
+Finally, the reported figures for proporiton of age group 35 and above is drastically less than other age groups which remain below 10% until 2010 when it marginally increased to 13% in 2011 increasing only 3% in total from 2010.
+

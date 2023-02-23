@@ -15,6 +15,7 @@ commences-start-begins
 overview starting:-
 
 overall
+it can be clearly seen that
 Generally speaking
 overall, it can be deduced that
 looking from an overall perspective
@@ -30,6 +31,7 @@ In 1966,
 In contrast
 In comparison
 With regards to the amount of x used
+in terms of 
 
 
 -> categorize on the basis of decline and increase rates or fluctuations
@@ -44,7 +46,11 @@ To give numbers :-
 
 falling from this to this
 increaseing from here to here
+declined from exactly 40% in 2000 to near 37% in 2005 dropping about 3% in total
 which more than doubled, quadrupled
 give a number in year than -> This figure increased steadily and erached here, then -> four times higher than ...
+
+from this point it started to increase/decrease
+
 
 

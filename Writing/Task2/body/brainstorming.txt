@@ -1,7 +1,4 @@
-1) to end with:-
-The more ..., the ...
-The harder ..., the ...
-The less ..., the
+
 
 Brainstorming ideas
 1. Imagine that you are someone else considering the problem.
@@ -39,3 +36,8 @@ Yellow hat: Always looks for positive answers, always optimistic and hopeful. Th
 Green hat: Creative hat. Think about all the different possible alternatives here. This is the brainstorming hat.
 Red hat: the instinctive hat. What is the first thing that comes into your head? How do you feel? Answer those questions for this hat.
 Black hat: The judging hat. This hat judges the ideas you have thought of. Be careful not to use this hat too early or too much.
+
+
+6 question method:-
+
+who? what? why? where? when? how?
